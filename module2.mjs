@@ -1,6 +1,6 @@
-const a = "harry";
-const b = "rohan";
-const c = "akash";
-const d = "priyanka";
+const a = "ashwin";
+const b = "aryan";
+const c = "dishant";
+const d = "lakshya";
 
 export default c;
