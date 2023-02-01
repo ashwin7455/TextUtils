@@ -29,7 +29,6 @@ function App() {
     <>
    
 {/* <Navbar title="TextUtils" aboutText ="About TextUtils"/> */}
-{/* <Navbar /> */}
 <Navbar title="TextUtils" mode={Mode} toggleMode={toggleMode} />
 <div className="container my-3">
 <TextForm heading ="Enter the text to analyse below" mode={Mode}/>
