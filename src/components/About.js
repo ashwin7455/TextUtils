@@ -15,7 +15,6 @@ export default function About() {
           border:'2px solid white'
         } )
     setBtnText('Enable Light Mode');
-
   }
   else{
     setMyStyle({
